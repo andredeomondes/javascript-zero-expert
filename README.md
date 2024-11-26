@@ -33,9 +33,9 @@ Um jogo interativo de adivinhação, onde o usuário tenta adivinhar o número s
 
 #### **Demonstração:**
 ![image](https://github.com/user-attachments/assets/6bb71c1d-13a4-4888-a804-7d86902a67d2)
-[GUESS MY NUMBER](https://seu-usuario.github.io/nome-do-repositorio/guess-my-number)
+[GUESS MY NUMBER](https://andredeomondes.github.io/guess-my-number)
 
 #### **Como Executar:**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/andredeomondes/javascript-zero-expert.git
+   git clone https://github.com/andredeomondes/guess-my-number.git
