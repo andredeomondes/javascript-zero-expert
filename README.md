@@ -1,62 +1,44 @@
-# 🌟 The Complete JavaScript Course: Projetos & Aprendizado
+# 🌟 **Projetos do Curso The Complete JavaScript Course**
 
-![image](https://github.com/user-attachments/assets/ca25c5a0-3f76-497b-b1c1-c1ce8e885c99)
+![JavaScript Projects](https://github.com/user-attachments/assets/ca25c5a0-3f76-497b-b1c1-c1ce8e885c99)
 
-
-Bem-vindo ao repositório oficial dos projetos desenvolvidos durante o curso [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) oferecido na Udemy. 🚀
-
-Aqui você encontrará exemplos práticos, código funcional e projetos completos que reforçam os conceitos abordados no curso. A ideia é compartilhar aprendizados, praticar e construir um portfólio incrível. 💻✨
+Repositório oficial dos projetos desenvolvidos durante o curso [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/). 🚀  
+Aqui você encontrará exemplos práticos, projetos interativos e código funcional para reforçar os conceitos aprendidos.  
 
 ---
 
 ## 📚 **Sobre o Curso**
 
-O curso é uma jornada completa pelo universo JavaScript, abrangendo desde os fundamentos até tópicos avançados. Alguns tópicos abordados incluem:
-
-- Sintaxe básica e fundamentos de programação.
-- Manipulação do DOM.
-- Estruturas de dados e APIs modernas.
-- Desenvolvimento de projetos reais e interativos.
+O curso aborda desde os fundamentos do JavaScript até conceitos avançados, como:  
+- Manipulação do DOM.  
+- Estruturas de dados modernas.  
+- Criação de projetos interativos.  
 
 ---
 
 ## 🎯 **Projetos**
 
 ### 1️⃣ **Guess My Number**
-Um jogo interativo de adivinhação, onde o usuário tenta adivinhar o número secreto gerado pelo programa.
+Um jogo de adivinhação onde você tenta descobrir o número secreto.
 
-#### **Funcionalidades:**
-- Gerador de número aleatório.
-- Entrada do usuário para adivinhar o número.
-- Feedback visual (muito alto, muito baixo, ou correto).
-- Registro da pontuação mais alta.
+#### **Funcionalidades**:
+- Gerador de número aleatório.  
+- Feedback ao usuário (muito alto, muito baixo ou correto).  
+- Registro de pontuação mais alta.  
 
-#### **Demonstração:**
-![image](https://github.com/user-attachments/assets/6bb71c1d-13a4-4888-a804-7d86902a67d2)
-[👉 Jogar Guess My Number](https://andredeomondes.github.io/guess-my-number)
+👉 [**Jogar Guess My Number**](https://andredeomondes.github.io/guess-my-number)
 
-#### **Como Executar:**
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/andredeomondes/guess-my-number.git
+---
 
+### 2️⃣ **Pig Game**
+Jogo multiplayer de dados onde estratégia e sorte definem o vencedor. 🐷🎲
 
-###2️⃣ Pig Game
-Um jogo multiplayer de dados que combina sorte e estratégia. Quem será o primeiro a alcançar 100 pontos? 🐷🎲
+#### **Funcionalidades**:
+- Dois jogadores alternam turnos.  
+- Lance o dado e acumule pontos no turno.  
+- Use "Hold" para salvar a pontuação e passar a vez.  
+- Se tirar "1", perde os pontos do turno.  
 
-#### **Funcionalidades:**
-Dois jogadores alternam turnos.
-Lance o dado para acumular pontos no score atual.
-Use o botão "Hold" para salvar sua pontuação no score total e passar a vez.
-Cuidado! Se tirar "1", você perde todos os pontos acumulados no turno.
-O primeiro jogador a atingir 100 pontos vence o jogo!
-#### **Demonstração:**
-Pig Game Preview
+👉 [**Jogar Pig Game**](https://andredeomondes.github.io/pig-game)
 
-[👉 Jogar Pig Game](https://andredeomondes.github.io/pig-game)
-
-Como Executar:
-Clone o repositório:
-   ```bash
-   git clone https://github.com/andredeomondes/pig-game.git
-
+---
