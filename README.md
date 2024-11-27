@@ -33,7 +33,7 @@ Um jogo interativo de adivinhação, onde o usuário tenta adivinhar o número s
 
 #### **Demonstração:**
 ![image](https://github.com/user-attachments/assets/6bb71c1d-13a4-4888-a804-7d86902a67d2)
-[GUESS MY NUMBER](https://andredeomondes.github.io/guess-my-number)
+[👉 Jogar Guess My Number](https://andredeomondes.github.io/guess-my-number)
 
 #### **Como Executar:**
 1. Clone o repositório:
@@ -53,7 +53,7 @@ O primeiro jogador a atingir 100 pontos vence o jogo!
 #### **Demonstração:**
 Pig Game Preview
 
-[👉 Jogar Pig Game](https://andredeomondes.github.io/pig-game
+[👉 Jogar Pig Game](https://andredeomondes.github.io/pig-game)
 
 Como Executar:
 Clone o repositório:
