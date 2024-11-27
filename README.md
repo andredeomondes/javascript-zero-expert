@@ -39,3 +39,24 @@ Um jogo interativo de adivinhação, onde o usuário tenta adivinhar o número s
 1. Clone o repositório:
    ```bash
    git clone https://github.com/andredeomondes/guess-my-number.git
+
+
+###2️⃣ Pig Game
+Um jogo multiplayer de dados que combina sorte e estratégia. Quem será o primeiro a alcançar 100 pontos? 🐷🎲
+
+#### **Funcionalidades:**
+Dois jogadores alternam turnos.
+Lance o dado para acumular pontos no score atual.
+Use o botão "Hold" para salvar sua pontuação no score total e passar a vez.
+Cuidado! Se tirar "1", você perde todos os pontos acumulados no turno.
+O primeiro jogador a atingir 100 pontos vence o jogo!
+#### **Demonstração:**
+Pig Game Preview
+
+[👉 Jogar Pig Game](https://andredeomondes.github.io/pig-game
+
+Como Executar:
+Clone o repositório:
+   ```bash
+   git clone https://github.com/andredeomondes/pig-game.git
+
